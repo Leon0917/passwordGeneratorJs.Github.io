@@ -1,0 +1,29 @@
+.nav {
+    text-align: center;
+    width: 100%;   
+}
+body {
+    background-color: peachpuff;
+}
+.container {
+    border: 2px solid gray;
+    margin-top: 6%;
+    background-color: powderblue;
+    padding: 2% 5% 3% 5%;
+}
+.h1-row {
+    color: gray;
+}
+.secure-row {
+    border: 2px dotted olive;
+    color: gray;
+    background-color: seashell;
+}
+.button1 {
+    background-color: red;
+    color: white;    
+}
+.button2 {
+    background-color: gray;
+    color: white;    
+}
