@@ -15,13 +15,15 @@ body {
     color: gray;
 }
 .secure-row {
+    border-top: 40px;
+    text-align: center;
     border: 2px dotted olive;
     color: gray;
     background-color: seashell;
 }
 .button1 {
     background-color: red;
-    color: white;    
+    color: white;       
 }
 .button2 {
     background-color: gray;

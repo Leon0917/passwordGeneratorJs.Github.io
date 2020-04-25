@@ -22,23 +22,19 @@
             </div>
             <hr/>
             <div class="row secure-row">
-                <div class="col-lg-4 col-sm-4">
-                    <h4>Your</h4>
-                </div>
-                <div class="col-lg-4 col-sm-4">
-                    <h4>Secure</h4>
-                </div>
-                <div class="col-lg-4 col-sm-4">
-                    <h4>Password</h4>
-                </div>
+                <div class="col-lg-12 col-sm-12">
+                   <form action="results.html" method="GET">
+                         <input id="password" type="text" placeholder="Your Secure Area"></input>
+                     </form>
+                </div>               
             </div>
             <hr/>
             <div class="row button-row">
                 <div class="col-lg-6 col-sm-6 gen-col">
-                    <button class="button1" onclick="" >Generate Password</button>
+                    <button id="generate">Generate Password</button>
                 </div>
                 <div class="col-lg-6 col-sm-6">                
-                    <button class="button2" onclick="">Copy to Clipboard</button>
+                    <button id="copy">Copy to Clipboard</button>
                 </div>
             </div>
         </div> 
