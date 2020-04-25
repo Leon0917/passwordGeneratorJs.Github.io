@@ -20,6 +20,6 @@ Carnagie.com UC Berkeley
 
 ---
 
-Click the link below
+Click the link below for details of the page
 
 [Carnagie.com](https://github.com/Leon0917/passwordGeneratorJs.Github.io)
