@@ -12,7 +12,7 @@ THis is my first Javasript webpage (assignment) where I used an html, css and a 
 Leon Carnagie <leonfross@gmail.com>
 
 ---
-![password generator demo](assets/2020-04-25.png)
+![password generator demo](assets/preview-photo.png)
 
 #### License & copyright
 
