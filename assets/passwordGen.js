@@ -16,8 +16,7 @@ window.onload = function (){
             });
 }
 
-
-// Create random generator
+// Add function to create random generator
 
 function generate( length = 12 ){
     var uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
@@ -37,7 +36,7 @@ function generate( length = 12 ){
     return password;
  }
 
-// Bonus to copy to clipboard
+// Function to copy to clipboard
 
  function copyFunction() {
     var copyText = document.getElementById("password");
